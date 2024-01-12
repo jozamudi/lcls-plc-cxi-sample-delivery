@@ -12,6 +12,11 @@
     <Implicit_KindOfTask>{a9015488-4705-4bc4-b0e0-cce68d71ee6b}</Implicit_KindOfTask>
     <Implicit_Jitter_Distribution>{81715702-a6c9-4289-9b82-3846e0c121fc}</Implicit_Jitter_Distribution>
     <LibraryReferences>{748a627f-e640-4c10-8e11-6ff57b3cf6a0}</LibraryReferences>
+    <CombineIds>false</CombineIds>
+    <Company>SLAC</Company>
+    <Released>true</Released>
+    <Title>lcls-cxi-sample-delivery</Title>
+    <ProjectVersion>0.0.0</ProjectVersion>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="GVLs\GVL_SDS.TcGVL">
