@@ -602,7 +602,7 @@ WC bit tells you if the sync unit is OK, which tells you if cluster is alive]]>
 	</Project>
 	<Mappings>
 		<MappingInfo Identifier="{00000000-2001-0850-0020-500810000403}" Id="#x02030010"/>
-		<MappingInfo Identifier="{00000000-2002-0850-0120-500821000403}" Id="#x02030020"/>
+		<MappingInfo Identifier="{00000000-2002-0850-0120-500831000403}" Id="#x02030020"/>
 		<OwnerA Name="TIPC^sample_delivery^sample_delivery Instance">
 			<OwnerB Name="TIID^MAIN (EtherCAT)^Bronkhorst MFM A">
 				<Link VarA="PlcTask Inputs^GVL_SDS.BronkhorstA.stMFM.i_rFlow" VarB="TxPDO Map^fMeasure" AutoLink="true"/>
